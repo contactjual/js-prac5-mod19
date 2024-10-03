@@ -20,7 +20,7 @@ console.log(myVersity);
 
 let edu = myVersity.greatTeacher;
 console.log(edu);
-
+// or 
 console.log(myVersity.greatTeacher);
 
 
