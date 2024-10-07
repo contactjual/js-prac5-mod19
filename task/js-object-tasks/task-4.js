@@ -9,8 +9,8 @@ let student = {
 };
 
 
-const keys = Object.keys(student);
-// const keys = Object.keys(student).length;
+// const keys = Object.keys(student);
+const keys = Object.keys(student).length;
 console.log(keys);
 
 console.log(Object.keys(student).length);

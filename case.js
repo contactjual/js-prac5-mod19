@@ -3,7 +3,7 @@ var schoolName = "Ashujua JNC Instutution";
 
 console.log(schoolName)
 console.log(schoolName.toUpperCase())
-console.log(schoolName.toLocaleLowerCase())
+console.log(schoolName.toLowerCase())
 
 
 

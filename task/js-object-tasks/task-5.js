@@ -9,7 +9,7 @@ let myObject = {
 }
 
 for(const keys in myObject){
-    // console.log(keys);
+    console.log(keys);
     console.log(`key: ${keys} | type: ${typeof myObject[keys]}`);
 }
 
